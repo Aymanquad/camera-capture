@@ -1,0 +1,7 @@
+opencv-python
+EasyOCR
+torch
+colorama
+Pillow
+pymongo
+python-dotenv
